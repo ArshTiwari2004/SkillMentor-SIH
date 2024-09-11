@@ -27,7 +27,7 @@ function About() {
           </div>
 
     
-          <div className="bg-white p-6 rounded-lg shadow-lg mb-6 md:mb-0 md:w-1/3">
+          <div className="bg-white p-6 rounded-lg shadow-xl mb-6 md:mb-0 md:w-1/3">
             <div className="flex items-center justify-center mb-4">
               <FaChalkboardTeacher className="text-green-500 text-5xl" />
             </div>

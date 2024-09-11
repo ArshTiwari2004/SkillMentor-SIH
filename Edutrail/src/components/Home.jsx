@@ -1,8 +1,8 @@
 import React from "react";
 
-function LandingPage() {
+function Landing() {
   return (
-    <div className="bg-white py-12">l fo
+    <div className="bg-white py-12">
       <div className="container mx-auto flex flex-col md:flex-row items-center justify-between">
 
         <div className=" px-10 md:w-1/2 mb-8 md:mb-0">
@@ -35,4 +35,4 @@ function LandingPage() {
   );
 }
 
-export default LandingPage;
+export default Landing;
